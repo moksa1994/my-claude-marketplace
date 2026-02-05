@@ -1,7 +1,1 @@
-plugins/test/plugin.json
-{
-  "name": "test",
-  "version": "0.0.1",
-  "description": "test plugin",
-  "skills": []
-}
+
