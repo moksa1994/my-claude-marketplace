@@ -1,0 +1,5 @@
+.claude-plugin/marketplace.json
+{
+  "name": "my-claude-marketplace",
+  "plugins": []
+}
